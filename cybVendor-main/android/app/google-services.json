@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "778216002007",
+    "project_id": "woba-vendor",
+    "storage_bucket": "woba-vendor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778216002007:android:4395c4b058c087ec93bb92",
+        "android_client_info": {
+          "package_name": "com.woba.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778216002007-f89coua36jsrq0pts4gduoenmlv6f3fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARJYVxwZsBNdexsqnWKPc4NFKnTS8ZdbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778216002007-f89coua36jsrq0pts4gduoenmlv6f3fo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
